@@ -2,6 +2,14 @@
 
 ## 1 be on linux and know how to use a trerminal
 
+## ADD YOU MP4 file to repo
+
+open tmp.py or transcriber.py file and replace the file name with the file name you want to have a transcirbe to.
+
+```python
+audio_file = "/tmp/YOUR_FILE_NAME.m4a"
+```
+
 ## Install docker 
 
 https://docs.docker.com/engine/install/debian/
