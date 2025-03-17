@@ -15,7 +15,7 @@ docker build -t transcriber .
 ## Transcriber
 
 ```bash
-docker run -it -v ./:/ transcriber > output.txt
+docker run -it -v ./:/tmp transcriber > output.txt
 ```
 
 ## Results
